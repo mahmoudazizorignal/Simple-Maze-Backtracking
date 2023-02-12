@@ -1,7 +1,6 @@
 
 /*
- * Assignment 1 - OOP - problem 5 in sheet 1 
- * 		Game Idea: The program find if it possible to build a chain consisting of every domino
+ * Assignment 3 - OOP - problem 3 in sheet 3 
  *  
  * This code is written by Mahmoud Mamdouh a student at Faculty of Computer Science - Cairo University
  * 		copyright © Mahmoud Mamdouh Abdelaziz
